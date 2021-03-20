@@ -2,7 +2,7 @@ name: PR Closer
 
 on:
   pull_request:
-    types: [opened, reopened]
+    types: []
 
 
 jobs:
